@@ -1,4 +1,4 @@
-# DIP final
+# Face-Mask Detection
 
 Environment creation:
 1. installing anaconda on your machines
