@@ -10,12 +10,8 @@ Environment creation:
 6. Run test.py using python test.py to check if everything runs perfectly.
 7. to deactivate run source deactivate (mac) or conda deactivate (Windows)
 
-Installing git:
-on terminal do- conda install git (this will download git for you)
-then do git clone https://github.com/Mbakker123/DIP-Final.git
-you will have a directory created now with everything downloaded
 
-everytime you make changes to anything:
+Everytime you make changes to anything:
 git add filename.ext(for all the file names)
 git commit -m "(Your message)"
 git push
